@@ -1,0 +1,1 @@
+kryo5=net.dloud.platform.parse.dubbo.serialization.KryoSerializationImpl

@@ -1,0 +1,2 @@
+org.springframework.context.ApplicationContextInitializer=\
+  net.dloud.platform.parse.boot.DloudApplicationContextInitializer

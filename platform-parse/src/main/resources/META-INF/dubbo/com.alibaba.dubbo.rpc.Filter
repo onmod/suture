@@ -1,0 +1,2 @@
+providerFilter=net.dloud.platform.parse.dubbo.ProviderFilterImpl
+consumerFilter=net.dloud.platform.parse.dubbo.ConsumerFilterImpl
